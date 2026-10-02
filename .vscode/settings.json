@@ -1,0 +1,7 @@
+{
+  "workbench.colorCustomizations": {
+    "statusBar.noFolderBackground": "#A02C18",
+    "statusBar.noFolderForeground": "#FEF9F9"
+  },
+  "java.compile.nullAnalysis.mode": "automatic"
+}
